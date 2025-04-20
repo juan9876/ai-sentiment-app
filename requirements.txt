@@ -1,3 +1,2 @@
-flask==2.0.3
+flask
 openai
-werkzeug==2.0.3
